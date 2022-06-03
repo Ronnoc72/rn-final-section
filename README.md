@@ -1,6 +1,6 @@
 # rn-final-section
 <h4>Introduction</h4>
-<p>All these projects were created using react native with expo. These projects were completed with the help from Maximillian's latter part of his course on react native.</p>
+<p>All these projects were created using react native with expo. These projects were completed with the help from Maximillian's latter part of his course on react native. (SIDENOTE: There were more projects that I could have created from the course; I only didn't finish them because they were concepts that I had already learned before)</p>
 <hr />
 <h4>Projects</h4>
 <ul>
